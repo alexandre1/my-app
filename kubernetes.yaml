@@ -1,4 +1,4 @@
-alexandre1980/vaadin-hello-world-advancedapiVersion: apps/v1
+apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: my-app
